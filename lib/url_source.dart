@@ -1,0 +1,1 @@
+const mainUrl="https://babyhatch.000webhostapp.com/";
